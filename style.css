@@ -1,0 +1,16 @@
+body{
+  background-image: url("http://courses.ics.hawaii.edu/ics314f17/morea/ui-frameworks/hobnob-background.jpg");
+  background-repeat: no-repeat;
+
+}
+.ui.topmenu.inverted.menu{
+  box-shadow: none;
+  border: none;
+}
+.download.item{
+  border: 4px solid white;
+}
+
+.middle.aligned.center{
+  height: 800px;
+}
